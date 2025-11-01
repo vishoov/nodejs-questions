@@ -1,5 +1,4 @@
 # Server-Side Concepts: Security, Deployment, and Operations  
-Authored by [Your Name]
 
 This document presents practical interview scenarios that focus on backend security, production deployment, performance, and operational excellence for Node.js and Express.js applications.
 
