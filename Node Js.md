@@ -1,4 +1,4 @@
-# Node.js Interview Q&A (Conversation Format)
+# Node.js Interview Q&A
 
 This file simulates a real interview setting – with the interviewer asking questions and the candidate responding with conceptual clarity, examples, and best practices. It covers key Node.js topics including event-driven architecture, error handling, performance, and advanced design modules used in production environments.
 

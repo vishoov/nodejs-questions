@@ -1,4 +1,4 @@
-# Express.js Interview Q&A (Full Conversation Format)
+# Express.js Interview Q&A
 
 This document simulates a real interview scenario between an interviewer and a candidate. It covers fundamental and advanced topics from Express.js basics to industry-level design, security layers, and performance optimizations.
 
