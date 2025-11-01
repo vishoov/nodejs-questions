@@ -1,4 +1,4 @@
-# MVC Design Patterns & RESTful API Interview Q&A (Conversation Format)
+# MVC Design Patterns & RESTful API Interview Q&A
 
 This document emulates an interview conversation covering the understanding and application of the MVC architecture, REST design principles, and real-world API design challenges for backend engineers.
 
